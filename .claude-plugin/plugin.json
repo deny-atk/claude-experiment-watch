@@ -1,0 +1,6 @@
+{
+  "name": "experiment-watch",
+  "version": "0.1.0",
+  "description": "Warns when this setup is put in a Claude Code experiment and lists what changed on this machine",
+  "types": "./types/index.d.ts"
+}

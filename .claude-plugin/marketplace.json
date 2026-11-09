@@ -1,0 +1,5 @@
+{
+  "name": "claude-experiment-watch",
+  "owner": { "name": "deny-atk" },
+  "plugins": [{ "name": "experiment-watch", "source": "./" }]
+}
